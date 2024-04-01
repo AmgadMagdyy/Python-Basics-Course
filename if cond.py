@@ -12,7 +12,7 @@ elif age < 20 and age >= 13:
     print("You are a teenager!")
 else:
     print("You are young!")
-
+ 
 
 # Define a variable
 x = 10
